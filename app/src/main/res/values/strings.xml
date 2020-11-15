@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab-11</string>
+    <string name="new_message">new_message</string>
+    <string name="new_message_desc">message_description</string>
+</resources>
